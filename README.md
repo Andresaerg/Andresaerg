@@ -52,6 +52,7 @@
       <img src="https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=node.js&logoColor=white&logoSize=auto" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoSize=auto" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white&logoSize=auto" />
+      <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=plastic&logo=.net&logoSize=auto" />
 </div>
 
 ### Databases: ⚙
@@ -61,6 +62,7 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white&logoSize=auto" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white&logoSize=auto" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white&logoSize=auto" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=plastic&logo=Microsoft%20SQL%20Server&logoSize=auto" />
 </div>
 
 ### Mobile development: 📱
@@ -82,10 +84,12 @@
 
 <div>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white&logoSize=auto" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white&logoSize=auto" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white&logoSize=auto" />
+      <!--img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white&logoSize=auto" /-->
+      <img src="https://img.shields.io/badge/Angular-0F0F11?style=plastic&logo=angular&logoSize=auto" />
+      <!--img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white&logoSize=auto" /-->
       <img src="https://img.shields.io/badge/Typescript-092f5f?style=plastic&logo=typescript&logoColor=white&logoSize=auto" />
-      <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=plastic&logo=nuxt.js&logoColor=white&logoSize=auto" />
+      <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=plastic&logo=.net&logoSize=auto" />
+      <!--img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=plastic&logo=nuxt.js&logoColor=white&logoSize=auto" /-->
 </div>
 
 </div>
