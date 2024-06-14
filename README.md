@@ -13,21 +13,16 @@
 - 💻  I'm learning +Laravel, Vue and React
 - 🤝  I'm open to collaborate on Laravel and PHP projects
 ### Stats 📊
-
-  <a href="#">
-    <img
-      align="center"
-      height="130em"
-      src="https://github-readme-stats.vercel.app/api?username=andresaerg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
-  <a href="#">
-    <img
-      align="center"
-      height="130em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresaerg&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
+<img
+     align="center"
+     height="130em"
+     src="https://github-readme-stats.vercel.app/api?username=andresaerg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+/>
+<img
+     align="center"
+     height="130em"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresaerg&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+/>
 
 ### Programming languages: 💪
 <div>
