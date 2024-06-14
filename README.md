@@ -14,14 +14,14 @@
 - 🤝  I'm open to collaborate on Laravel and PHP projects
 ### Stats 📊
 
-  <a href="https://github.com/andresaerg">
+  <a href="#">
     <img
       align="center"
       height="130em"
       src="https://github-readme-stats.vercel.app/api?username=andresaerg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
-  <a href="https://github.com/andresaerg">
+  <a href="#">
     <img
       align="center"
       height="130em"
