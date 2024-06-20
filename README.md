@@ -46,6 +46,7 @@
       <img src="https://img.shields.io/badge/CSS-1572B6?&style=plastic&logo=css3&logoColor=white&logoSize=auto" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white&logoSize=auto" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white&logoSize=auto" />
+      <img src="https://img.shields.io/badge/Astro-BC52EE?style=plastic&logo=astro&logoColor=white&logoSize=auto" />
 </div>
 
 ### Backend & Frameworks: ⚡
