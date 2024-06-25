@@ -10,8 +10,8 @@
 
 ### About me 🙋‍♂️
 - 🚀  I’m currently working on a personal SaaS project
-- 💻  I'm learning +Laravel, Vue and React
-- 🤝  I'm open to collaborate on Laravel and PHP projects
+- 💻  I'm learning +Laravel, Angular and +.NET
+- 🤝  I'm open to collaborate on Laravel, PHP and .NET projects
 ### Stats 📊
 <div id="gh-stats">
      <a href="#gh-stats">
