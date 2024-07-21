@@ -2,7 +2,7 @@
 
 <h1> Hi there 👋, I'm Andrés Rosales 👨‍💻</h1>
 
-<img src="https://media.licdn.com/dms/image/D4E03AQFZusIGHXmQOg/profile-displayphoto-shrink_200_200/0/1678724335116?e=1720656000&amp;v=beta&amp;t=G2TXQ_rvzc7Dx-PU4DLLID3nuUaaS50u0DQ-iN2Q73o" 
+<img src="https://media.licdn.com/dms/image/D4E03AQFZusIGHXmQOg/profile-displayphoto-shrink_200_200/0/1678724335116?e=1727308800&v=beta&t=tb3cGL2XagcS80LVI4qiqLRGVtee_qpRAQWCwYfU_8w" 
      alt="Andrés Rosales">
 
 ## A passionate Full Stack Software Engineer 💪
