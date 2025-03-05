@@ -2,7 +2,9 @@
 
 <h1> Hi there 👋, I'm Andrés Rosales 👨‍💻</h1>
 
-<img src="https://media.licdn.com/dms/image/D4E03AQFZusIGHXmQOg/profile-displayphoto-shrink_200_200/0/1678724335116?e=1727308800&v=beta&t=tb3cGL2XagcS80LVI4qiqLRGVtee_qpRAQWCwYfU_8w" 
+<img src="https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/278911632_2675598825949339_8584142573191830390_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=yNyhj_GS07kQ7kNvgHGV_1_&_nc_oc=AdgfDjlksCclKtH3IZ-S6FuYO-0zDwqe6wmmp1hQz3ZwIoUJyRkfwNbHBN-zNY1RnHNi6pjRLSRlcHGVwzqYYroB&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=AK8MprqnbWaI7LtHBgUWnlg&oh=00_AYCmhvmecteIgnG_GKECy0NE5qfQcCzdTlMruaS94zoSIw&oe=67CE57C0"
+     width="250"
+     height="250"
      alt="Andrés Rosales">
 
 ## A passionate Full Stack Software Engineer 💪
@@ -10,8 +12,8 @@
 
 ### About me 🙋‍♂️
 - 🚀  I’m currently working on a personal SaaS project
-- 💻  I'm learning +Laravel, Angular and +.NET
-- 🤝  I'm open to collaborate on Laravel, PHP and .NET projects
+- 💻  I'm learning +Laravel, +Angular and +.NET
+- 🤝  I'm open to collaborate on Angular, Laravel and .NET projects
 ### Stats 📊
 <div id="gh-stats">
      <a href="#gh-stats">
@@ -47,6 +49,7 @@
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white&logoSize=auto" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwind-css&logoColor=white&logoSize=auto" />
       <img src="https://img.shields.io/badge/Astro-BC52EE?style=plastic&logo=astro&logoColor=white&logoSize=auto" />
+      <img src="https://img.shields.io/badge/Angular-0F0F11?style=plastic&logo=angular&logoSize=auto" />
 </div>
 
 ### Backend & Frameworks: ⚡
@@ -86,7 +89,7 @@
 ### Focused in learn/masterize: 📚
 
 <div>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white&logoSize=auto" />
+      <!--img src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white&logoSize=auto" /-->
       <!--img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white&logoSize=auto" /-->
       <img src="https://img.shields.io/badge/Angular-0F0F11?style=plastic&logo=angular&logoSize=auto" />
       <!--img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=white&logoSize=auto" /-->
