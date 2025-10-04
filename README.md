@@ -2,10 +2,11 @@
 
 <h1> Hi there 👋, I'm Andrés Rosales 👨‍💻</h1>
 
-<img src="https://scontent-mia3-3.xx.fbcdn.net/v/t39.30808-6/278911632_2675598825949339_8584142573191830390_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=yNyhj_GS07kQ7kNvgHGV_1_&_nc_oc=AdgfDjlksCclKtH3IZ-S6FuYO-0zDwqe6wmmp1hQz3ZwIoUJyRkfwNbHBN-zNY1RnHNi6pjRLSRlcHGVwzqYYroB&_nc_zt=23&_nc_ht=scontent-mia3-3.xx&_nc_gid=AK8MprqnbWaI7LtHBgUWnlg&oh=00_AYCmhvmecteIgnG_GKECy0NE5qfQcCzdTlMruaS94zoSIw&oe=67CE57C0"
+<img src="https://asoft-dev.surge.sh/images/me.jpg"
      width="250"
-     height="250"
-     alt="Andrés Rosales">
+     height="300"
+     alt="Andrés Rosales"
+     style="border-radius: 50%;">
 
 ## A passionate Full Stack Software Engineer 💪
 </div>
