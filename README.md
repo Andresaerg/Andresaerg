@@ -8,7 +8,7 @@
      alt="Andrés Rosales"
      style="border-radius: 50%;">
 
-## A passionate Full Stack Software Engineer 💪
+## A passionate Software Engineer 💪
 </div>
 
 ### About me 🙋‍♂️
