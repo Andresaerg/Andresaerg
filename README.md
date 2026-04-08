@@ -17,21 +17,7 @@
 - 🤝  I'm open to collaborate on Angular, Laravel and .NET projects
 ### Stats 📊
 <div id="gh-stats">
-     <a href="#gh-stats">
-          <img
-               align="center"
-               height="130em"
-               src="https://github-readme-stats.vercel.app/api?username=andresaerg&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-          />
-     </a>
-     <a href="#gh-stats">
-          <img
-               align="center"
-               height="130em"
-               src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresaerg&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-          />
-     </a>
-     
+     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andresaerg&theme=catppuccin-mocha&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
 </div>
 
 ### Programming languages: 💪
