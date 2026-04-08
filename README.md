@@ -16,8 +16,10 @@
 - 💻  I'm learning +Laravel, +Angular and +.NET
 - 🤝  I'm open to collaborate on Angular, Laravel and .NET projects
 ### Stats 📊
-<div id="gh-stats">
-     [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andresaerg&theme=catppuccin-mocha&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
+<div id="gh-stats" align="center">
+     <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=andresaerg&theme=catppuccin-mocha&short_numbers=true&mode=weekly" alt="GitHub Streak" />
+     </a>
 </div>
 
 ### Programming languages: 💪
